@@ -1,0 +1,12 @@
+.topnav{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAACUCAMAAABV5TcGAAAAA1BMVEX+AAAYIGMAAAAAPklEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIcBnKwAAXyxvCsAAAAASUVORK5CYII=');
+}
+.topnav a{
+    text-decoration: none;
+    background-image: url('');
+
+}
